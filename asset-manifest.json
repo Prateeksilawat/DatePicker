@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DatePicker/static/css/main.9f0eaf4a.css",
+    "main.js": "/DatePicker/static/js/main.6cfc867d.js",
+    "static/js/453.6b6e720e.chunk.js": "/DatePicker/static/js/453.6b6e720e.chunk.js",
+    "index.html": "/DatePicker/index.html",
+    "main.9f0eaf4a.css.map": "/DatePicker/static/css/main.9f0eaf4a.css.map",
+    "main.6cfc867d.js.map": "/DatePicker/static/js/main.6cfc867d.js.map",
+    "453.6b6e720e.chunk.js.map": "/DatePicker/static/js/453.6b6e720e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f0eaf4a.css",
+    "static/js/main.6cfc867d.js"
+  ]
+}
